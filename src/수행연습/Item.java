@@ -84,6 +84,7 @@ public class Item {
 	}
 	public void printInfo() {
 		System.out.println("상품코드 : " + no + "상품명 : " + name + "상품가격  : " + price + "상품개수 : " + count);
+		System.out.println("\n");
 	}
 	
 }
